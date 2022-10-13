@@ -26,3 +26,11 @@
 </div>
 
 ---
+
+## Hi! 🐢🐢🐢
+
+### About Me 🐘
+
+- Backend developer from Japan.
+- Exploring Rust.
+- I like to build automation tools.
