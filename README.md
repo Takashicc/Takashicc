@@ -35,6 +35,18 @@
 - Exploring Rust.
 - I like to build automation tools.
 
+### Projects
+
+#### Ondo
+
+Ondo is a Web application and IoT device for monitoring extremes of temperature and humidity in homes, protecting loved ones.
+
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/team-ondo)
+
+<div align="center">
+    <img src="/images/ondo.jpg" width="600px"/>
+</div>
+
 ### Languages
 
 ![JavaScript][JavaScript]
