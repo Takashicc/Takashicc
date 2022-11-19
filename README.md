@@ -61,7 +61,6 @@ deCafé is a Web application to helps users to easily find decaf coffee shops.
 
 ![JavaScript][JavaScript]
 ![TypeScript][TypeScript]
-![Node.js][Node.js]
 ![Python][Python]
 ![Java][Java]
 ![Rust][Rust]
