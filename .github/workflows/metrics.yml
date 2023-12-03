@@ -3,9 +3,6 @@ name: Update Metrics
 on:
   schedule:
     - cron: "0 18 * * *"
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
@@ -15,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Half-year calendar
+      - name: Update Metrics
         uses: lowlighter/metrics@v3.34
         with:
           filename: metrics/general.svg
